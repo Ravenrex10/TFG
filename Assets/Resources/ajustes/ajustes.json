@@ -1,0 +1,25 @@
+{
+  "Jugador": {
+    "experienciaMaximaHieloInicial": 20,
+    "experienciaMaximaFuegoInicial": 20,
+    "vida": 100,
+    "ataquesPorPartidaIniciales": 3,
+    "ataque": 20
+  },
+  "Enemigo": {
+    "ataqueBase":  10
+  },
+  "AjustesDelJuego": {
+    "temporizadorPartidaMin": 0,
+    "temporizadorPatronSeg": 10,
+    "combatesConTutorial": 2,
+    "monedasPorCombate": 5,
+    "monedasBonus": 20,
+    "partidasParaBonus": 5,
+    "experienciaPorCombate": 10
+  },
+  "Tienda": {
+    "precioPocionVida": 10,
+    "precioPocionExperiencia": 20
+  }
+}

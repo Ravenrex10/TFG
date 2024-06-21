@@ -1,0 +1,44 @@
+{
+  "patterns": [{
+    "name": "Fire",
+    "levels": [
+      {
+        "name": "Level 1",
+        "pattern": [
+          0, 0, 0,
+          1, 2, 0,
+          0, 0, 0
+        ]
+      },
+      {
+        "name": "Level 2",
+        "pattern": [
+          0, 3, 0,
+          1, 2, 0,
+          0, 0, 0
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ice",
+    "levels": [
+      {
+        "name": "Level 1",
+        "pattern": [
+          0, 0, 0, 
+          0, 0, 2,
+          0, 0, 1
+        ]
+      },
+      {
+        "name": "Level 2",
+        "pattern": [
+          0, 0, 3,
+          0, 0, 2,
+          0, 0, 1
+        ]
+      }
+    ]
+  }]
+}
