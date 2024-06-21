@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "778797327333",
+    "firebase_url": "https://tfg-unity-2db3f-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "tfg-unity-2db3f",
+    "storage_bucket": "tfg-unity-2db3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778797327333:android:d026f3674c2807092d850c",
+        "android_client_info": {
+          "package_name": "com.uma.tfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4I45KbN4KMamen61VjOabCsjB90k0AWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
